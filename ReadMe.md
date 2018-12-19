@@ -6,6 +6,7 @@ to contribute Just add your links here
 [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA "Joshua Fluke")
 
 ## Best Udemy Courses
+[Modern React with Redux (2019 Update) ] - Stephen Grider
 
 ## Best Instructor Websites
 
